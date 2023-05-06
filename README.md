@@ -21,15 +21,15 @@ Made by Priyanshi Baldha.
 
 ## 📲 Screenshots
 
-<img align="left" src="./assets/Screenshot/s1.jpg" width="220px">
-<img align="left" src="./assets/Screenshot/s2.jpg" width="220px">
-<img align="left" src="./assets/Screenshot/s3.jpg" width="220px">
-<img align="left" src="./assets/Screenshot/s4.jpg" width="220px">
-<img align="left" src="./assets/Screenshot/s5.jpg" width="220px">
-<img align="left" src="./assets/Screenshot/s6.jpg" width="220px">
-<img align="left" src="./assets/Screenshot/s7.jpg" width="220px">
-<img align="left" src="./assets/Screenshot/s8.jpg" width="220px">
-<img src="./assets/Screenshot/s9.jpg" width="220px">
+<img align="left" src="./assets/images/Screenshot/s1.jpg" width="220px">
+<img align="left" src="./assets/images/Screenshot/s2.jpg" width="220px">
+<img align="left" src="./assets/images/Screenshot/s3.jpg" width="220px">
+<img align="left" src="./assets/images/Screenshot/s4.jpg" width="220px">
+<img align="left" src="./assets/images/Screenshot/s5.jpg" width="220px">
+<img align="left" src="./assets/images/Screenshot/s6.jpg" width="220px">
+<img align="left" src="./assets/images/Screenshot/s7.jpg" width="220px">
+<img align="left" src="./assets/images/Screenshot/s8.jpg" width="220px">
+<img src="./assets/images/Screenshot/s9.jpg" width="220px">
 
 ## 📽️ GIF
 
